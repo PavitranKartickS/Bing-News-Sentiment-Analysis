@@ -29,4 +29,5 @@ A pipeline is scheduled to run daily, performing the entire process to keep the 
   
 ### Acknowledgements
 Thanks to Microsoft for providing the tools and services used in this project.
+
 Special thanks to the developers of SynapseML, Power BI, and Azure Data Factory.
